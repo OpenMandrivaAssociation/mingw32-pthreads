@@ -9,7 +9,7 @@
 
 Name:           mingw32-pthreads
 Version:        2.8.0
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        MinGW pthread library
 
 %define crazy_version %(echo %{version}|tr . -)
