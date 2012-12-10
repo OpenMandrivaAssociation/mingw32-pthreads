@@ -106,3 +106,19 @@ rm -rf $RPM_BUILD_ROOT
 %{_mingw32_libdir}/libpthreadGC2.a
 %{_mingw32_libdir}/libpthreadGCE2.a
 %{_mingw32_includedir}/pthread
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 2.8.0-3mdv2011.0
++ Revision: 620356
+- the mass rebuild of 2010.0 packages
+
+* Mon Sep 14 2009 Thierry Vignaud <tv@mandriva.org> 2.8.0-2mdv2010.0
++ Revision: 439931
+- rebuild
+
+* Fri Feb 06 2009 Jérôme Soyer <saispo@mandriva.org> 2.8.0-1mdv2009.1
++ Revision: 338143
+- import mingw32-pthreads
+
+
