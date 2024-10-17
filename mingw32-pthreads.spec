@@ -16,7 +16,7 @@ Summary:        MinGW pthread library
 
 License:        LGPLv2+
 Group:          Development/Other
-URL:            http://sourceware.org/pthreads-win32/
+URL:            https://sourceware.org/pthreads-win32/
 Source0:        ftp://sourceware.org/pub/pthreads-win32/pthreads-w32-%{crazy_version}-release.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
